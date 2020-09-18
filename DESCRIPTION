@@ -1,0 +1,18 @@
+Package: montyhall
+Title: Play the Montyhall Game
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Joseph",
+           family = "Papczynski",
+           role = c("aut", "cre"),
+           email = "jpapczyn@asu.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+   dplyr
